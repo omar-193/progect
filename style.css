@@ -1,0 +1,306 @@
+*{
+margin:auto;	
+}
+body
+{
+	background-color:#4691bd;
+}
+header
+{
+	background-color:#fff;
+	height:50px;
+	overflow:hidden;
+	padding:20px;
+	
+}
+header h1
+{
+float: left;
+font-family:calibri;	
+}
+.logo
+{
+	color:#ec1c24;
+}
+header nav
+{
+	float:right;
+}
+
+ header nav ul 
+ {
+	 list-style-type:none;
+ }
+ header nav ul li 
+ {
+	 float:left;
+	 margin-right:10px;
+ }
+ a:link
+ {
+	 text-decoration:none;
+	 text-transform:uppercase;
+	 font-size:14pt;
+	 font-family:calibri;
+	 color:#17335b;
+	 
+ }
+ a:hover
+ {
+	 text-decoration:underline;
+	 color:#244d87;
+	 transition:2s;
+ }
+ #jumbotron
+ {
+	height:700px;
+	background:url('img/cover-10.jpg')no-repeat;
+	background-size:100%;
+    padding:10px;	
+ }
+ #jumbotron h2 
+ {
+	 float:right;
+	 color:#2800f1;
+	 text-shadow:2px 2px 8px #fff;
+	 font-size:55px;
+	 font-family:calibri;
+ }
+ #jumbotron p
+ {
+	 position:absolute;
+	 right:70px;
+	 top:200px;
+	 color:#5167e4;
+	 width:350px;
+	 font-size:20pt;
+ }	 
+
+ 
+ .featrues
+ {
+	 text-align:center;
+	 width:100;
+	 margin-top:20px;
+	 overflow:hidden;
+ }
+ .featrues ul
+ {
+	 list-style-type:none;
+	 overflow:hidden;
+	 
+	
+ }
+ .featrues ul li
+ {
+	 float:left;
+	 background-color:#fff;
+	 border:1px solid #ccc;
+	 width:150;
+	 height:160px;
+	 overflow:hidden;
+	 margin-right:10px;
+	
+ }
+ .featrues .featrue-1
+ {
+	 background:url('img/om.PNG')no-repeat bottom center ;
+	 background-size:100px 100px;
+	  background-color:#fff;
+	  font-size:18px;
+	     width:600px;
+ } 
+ .featrues .featrue-2
+ {
+	 background:url('img/cl.PNG')no-repeat bottom center ;
+	 background-size:100px 100px;
+	  background-color:#fff;
+	   font-size:18px;
+	   width:600px;
+ }
+  .featrues .featrue-3
+  {
+	 background:url('img/a.PNG')no-repeat bottom center;
+	 background-size:100px 100px;  
+	  background-color:#fff;
+	   font-size:18px;
+	      width:600px;
+  }
+footer
+{
+text-align:center;
+overflow:hidden;
+width:2000px;
+padding-top:30px;
+padding-right-left:30px;
+margin-right:10px;
+border-top:2px solid #130202;
+
+}
+#first-footer
+{
+overflow:hidden;
+margin-bottom:20px;
+border-bottom:5px solid #130202;	
+}
+#first-footer ul
+{
+	text-align:center;
+	list-style-type:none;
+	float:left;
+	width:200px;
+	margin-right:20px; 
+	margin-top:10px
+}
+#first-footer h2 
+{
+	color:#black;
+	border-bottom:1px dotted #fff;
+}
+ #second-footer
+ {
+	 font-size:18pt;
+ }
+ #img
+ {
+	 background:url('img/Screenshot3.png')no-repeat;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
